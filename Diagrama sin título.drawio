@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T06:58:38.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.13" etag="StHb19GPDF3OF9IBjjI8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T07:45:54.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mAmRPFehecvm3rdcDqvo" version="24.4.13" type="github">
   <diagram name="Página-1" id="QCIRnfWgJ1j_toIHLT80">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2E4uyEMVZ05kKamJyVn-1" target="s2E4uyEMVZ05kKamJyVn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-1" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="310" as="sourcePoint" />
+            <mxPoint x="413" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s2E4uyEMVZ05kKamJyVn-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-13" value="imprimir resultado" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-15" value="Realizar calculo&lt;div&gt;suma, resta, producto y división&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="331" y="380" width="166" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s2E4uyEMVZ05kKamJyVn-16" value="Leer 2 números" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="339" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
