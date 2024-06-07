@@ -6,6 +6,8 @@ int main()
 {
     int n, numero;
     
+    srand(time(NULL));
+    
     numero = rand()%100;
     
     do
