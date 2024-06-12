@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <ctype.h>
 
 int main()
 {
@@ -8,11 +9,11 @@ int main()
     printf("Dime una palabra (max 10 caracteres): ");
     scanf("%s", palabra);
    
-    strupr(palabra);
+    
    
     for (int i = 0; i < 10; i++)
     {
-        printf("%c", palabra[i]);
+        printf("%c", toupper(palabra[i]));
     }
    
     return 0;
